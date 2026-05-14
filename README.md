@@ -30,7 +30,7 @@ A simple and clean money laundering script for FiveM servers running the **ESX**
 1. Download or clone this repository into your FiveM `resources` folder:
    ```
    resources/
-   └── moneylaundry/
+   └── fLaundry/
        ├── client.lua
        ├── server.lua
        ├── config.lua
