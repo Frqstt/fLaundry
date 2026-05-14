@@ -39,7 +39,7 @@ A simple and clean money laundering script for FiveM servers running the **ESX**
 
 2. Add the resource to your `server.cfg`:
    ```
-   ensure moneylaundry
+   ensure fLaundry
    ```
 
 3. Configure the script to your liking in `config.lua` (see below).
